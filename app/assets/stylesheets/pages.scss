@@ -12,13 +12,14 @@
 
 .center {
   text-align: center;
-  background-image: url(https://img.wallpapersafari.com/desktop/1920/1080/81/58/trkJUw.jpg);
+  background-image: url("homeDog.jpg");
   background-size: cover;
   background-position: center;
 }
 
 .center h1 {
   margin-bottom: 10px;
+  font-size: 80px;
   font-family: 'Exo', sans-serif;
   font-weight: 200;
   color: black;
@@ -39,6 +40,7 @@
 }
 
 .nome3 {
+    font-size: 50px !important;
     color: white !important;
     text-shadow: 0 0 3px black !important;
     -webkit-font-smoothing: none !important;
@@ -78,7 +80,7 @@
     padding: 0px;
     font-weight: 500;
     font-family: 'Exo', sans-serif;
-    font-size: 14px;
+    font-size: 20px;
 }
 
 .li_home {
